@@ -1,0 +1,23 @@
+html{
+	background-color: blue;
+}
+p {
+	color:white;
+}
+a:hover {
+	color:yellow;
+}
+.box{
+	background-color: black
+	width:700px;
+	padding:30px;
+	position:relative;
+}
+.text_top{
+	position:relative;
+	padding:20px;
+	top:50px
+	font-size:50px;
+	color:white;
+	font-family: Impact;
+}
